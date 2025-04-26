@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    font-size: 2em;
+}
+p{
+    color: green;
+    font-size: 1.2em;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+body{
+    background-color: lightgray;
+}
